@@ -1,3 +1,7 @@
 hej hej och återigen hej
 
+<<<<<<< HEAD
 hoppas att detta inte ställer till med problem
+=======
+här vankas det problem!
+>>>>>>> very-bad
